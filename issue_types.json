@@ -1,0 +1,12 @@
+{
+  "Software": [
+    "Installation",
+    "Crash",
+    "Performance"
+  ],
+  "Hardware": [
+    "Networking",
+    "Printer",
+    "Monitor"
+  ]
+}
